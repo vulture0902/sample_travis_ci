@@ -3,7 +3,4 @@ node_js:
   - "node"
 
 script:
-  - npm install
-
-after_script:
   - npm run test
